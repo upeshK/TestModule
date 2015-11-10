@@ -3,7 +3,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>TestModule</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.3</version>
+  <version>1.0.4-SNAPSHOT</version>
   <name>TestModule</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -16,7 +16,7 @@
   </dependencies>
    <scm>
 			<connection>scm:git:https://github.com/Nuwan-Walisundara/TestModule.git</connection>
-		  <tag>v1.0.3</tag>
+		  <tag>HEAD</tag>
   </scm>
   <build>
   	<plugins>
