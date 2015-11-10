@@ -15,6 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+   <scm>
+			<connection>scm:git:https://github.com/Nuwan-Walisundara/TestModule.git</connection>
+		</scm>
   <build>
   	<plugins>
   		<plugin>
